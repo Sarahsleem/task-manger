@@ -1,19 +1,20 @@
-# task
+Task Manager 📝
 
-A new Flutter project.
+A sleek, modern Flutter application for managing your daily tasks and to-do lists efficiently. Stay organized and boost your productivity with an intuitive and beautiful interface.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+Add, Edit, & Delete Tasks: Full CRUD functionality for your tasks.
+Mark as Complete: Easily check off tasks to track your progress.
+Organize by Priority: Categorize tasks with high, medium, and low priority levels.
+Set Due Dates: Never miss a deadline with built-in date pickers.
+Beautiful UI: Built with a clean, user-friendly design following Material Design 3 guidelines.
+Local Storage: Your tasks are saved locally on your device (using shared_preferences or hive).
+Dark/Light Mode: Supports both themes for comfortable viewing.
 
-A few resources to get you started if this is your first Flutter project:
+🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# task-manger
-# task-manger
-# task-manger
+
+
